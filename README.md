@@ -2,7 +2,7 @@
 
 **Software engineering · Machine learning · Data systems**
 
-I'm pursuing an **M.S. in Computer Science, specializing in Artificial Intelligence, at Georgia Tech** (expected December 2027), where I also earned my B.S. in Computer Science in May 2026.
+I'm pursuing an **M.S. in Computer Science, specializing in Artificial Intelligence, at Georgia Tech**, where I also earned my B.S. in Computer Science in May 2026. In my free time, I love to work on random projects or build products. 
 
 ## Get in touch
 
